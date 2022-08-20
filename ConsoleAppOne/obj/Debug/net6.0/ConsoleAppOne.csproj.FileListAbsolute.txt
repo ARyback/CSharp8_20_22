@@ -1,0 +1,15 @@
+C:\Users\adamr\source\repos\ConsoleAppOne\ConsoleAppOne\bin\Debug\net6.0\ConsoleAppOne.exe
+C:\Users\adamr\source\repos\ConsoleAppOne\ConsoleAppOne\bin\Debug\net6.0\ConsoleAppOne.deps.json
+C:\Users\adamr\source\repos\ConsoleAppOne\ConsoleAppOne\bin\Debug\net6.0\ConsoleAppOne.runtimeconfig.json
+C:\Users\adamr\source\repos\ConsoleAppOne\ConsoleAppOne\bin\Debug\net6.0\ConsoleAppOne.dll
+C:\Users\adamr\source\repos\ConsoleAppOne\ConsoleAppOne\bin\Debug\net6.0\ConsoleAppOne.pdb
+C:\Users\adamr\source\repos\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.csproj.AssemblyReference.cache
+C:\Users\adamr\source\repos\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamr\source\repos\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.AssemblyInfoInputs.cache
+C:\Users\adamr\source\repos\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.AssemblyInfo.cs
+C:\Users\adamr\source\repos\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.csproj.CoreCompileInputs.cache
+C:\Users\adamr\source\repos\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.dll
+C:\Users\adamr\source\repos\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\refint\ConsoleAppOne.dll
+C:\Users\adamr\source\repos\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.pdb
+C:\Users\adamr\source\repos\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ConsoleAppOne.genruntimeconfig.cache
+C:\Users\adamr\source\repos\ConsoleAppOne\ConsoleAppOne\obj\Debug\net6.0\ref\ConsoleAppOne.dll
